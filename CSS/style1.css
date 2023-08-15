@@ -33,6 +33,3 @@ body {
          font-size: 40px;
          font-style:oblique;
  }
- @media(min-width:319px) and (max-width:480px) {       /* mobile scren*/
-       body {background-color: lightsalmon;}                 
-    }
