@@ -1,0 +1,24 @@
+body {
+     background-color:#fff8b4;
+     
+    }                                     
+hr {
+    border-style:none;
+    border-top-style:dotted;
+    border-color: gray;
+    border-width:6px;
+    width:8%;
+    }
+h1 {
+     color: #66BFBF;                            /* TAG Selectors*/
+    }
+h2 { 
+    color: #bf6679;
+}
+h3 { 
+    color: #bf669d;
+   }
+img:hover { background-color:rgba(0, 128, 128, 0.336)}   /* pseudo classs*/
+#name {color: tomato;}                                  /* ID selector*/
+.edu {color: blue;}                                     /* CLASS selector*/
+.contact {color:brown;}                                  /* CLASS selector*/
